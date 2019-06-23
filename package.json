@@ -4,9 +4,6 @@
   "name": "fcc-learn-npm-package-json",
   "description": "A project that does something awesome",
   "keywords": [ "freecodecamp", "learning", "loop" ],
-  "dependencies": {
-   "knockout": "2.14.0"
-  },
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
