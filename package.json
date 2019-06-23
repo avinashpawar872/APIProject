@@ -6,10 +6,7 @@
 	"scripts": {
 		"start": "node server.js"
 	},
-	"dependencies": {
-		"express": "2.14.0",
-		"moment": "2.14.0"
-	},
+	"dependencies": {"express": "2.14.0"},
 	"engines": {
 		"node": "4.4.5"
 	},
