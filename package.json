@@ -1,24 +1,24 @@
 {
-	"name": "fcc-api-projects-boilerplate",
-	"version": "0.0.1",
-	"description": "An FCC Backend Challenge",
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"dependencies": {"express": "2.14.0"},
-	"engines": {
-		"node": "4.4.5"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://githost.com/camper/repo.git"
-	},
-	"keywords": [
-		"node",
-		"hyperdev",
-		"express",
-		"freecodecamp"
-	],
-	"license": "MIT"
+  "author": "Avinash",
+  "version": "1.0.0",
+  "name": "fcc-learn-npm-package-json",
+  "description": "A project that does something awesome",
+  "keywords": [ "freecodecamp", "learning", "loop" ],
+  "dependencies": {
+    //no linebreak
+   "express": "2.14.0",//change to 4.14.0
+    "moment": "2.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "8.11.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://idontknow/todo.git"
+  },
+  "license": "MIT"
 }
